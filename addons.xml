@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
 <addon id="repository.demo.kod2" name="Demo repository 2" version="1.0.0" provider-name="amarogithub">
 	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
 		<info compressed="false">http://raw.github.com/amarogithub/repository.demo.kod2/master/addons.xml</info>
@@ -12,3 +13,4 @@
 		<platform>all</platform>
 	</extension>
 </addon>
+</addons>
