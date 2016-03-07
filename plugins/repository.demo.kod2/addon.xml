@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.demo.kod2" name="Demo repository 2" version="1.0.0" provider-name="amarogithub">
 	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
-		<info compressed="false">http://raw.github.com/amarogithub/repository.demo.kod2/master/addons.xml</info>
-		<checksum>http://raw.github.com/amarogithub/repository.demo.kod2/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://github.com/amarogithub/repository.demo.kod2/tree/master/plugins</datadir>
+		<info compressed="false">http://raw.github.com/amarogithub/repository.demo.kod2/master/plugins/addons.xml</info>
+		<checksum>http://raw.github.com/amarogithub/repository.demo.kod2/master/plugins/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/amarogithub/repository.demo.kod2/master/plugins/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Demonstration Addon</summary>
@@ -13,4 +12,3 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-</addons>
