@@ -97,18 +97,4 @@ I don't own this Live Stream. Use at your own risk.</description>
     <source></source>
   </extension>
 </addon>
-
-<addon id="repository.demo.kod2" name="Demo repository 2" version="1.0.0" provider-name="amarogithub">
-	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
-		<info compressed="false">http://raw.github.com/amarogithub/repository.demo.kod2/master/plugins/addons.xml</info>
-		<checksum>http://raw.github.com/amarogithub/repository.demo.kod2/master/plugins/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/amarogithub/repository.demo.kod2/master/plugins/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Demonstration Addon</summary>
-		<description>Addon Description</description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
 </addons>
